@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectService/DTOs/ProjectService/ProjectDTOs.iml" filepath="$PROJECT_DIR$/ProjectService/DTOs/ProjectService/ProjectDTOs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectService/ServiceInterfaces/ProjectService/ProjectInterfaces.iml" filepath="$PROJECT_DIR$/ProjectService/ServiceInterfaces/ProjectService/ProjectInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectService/ProjectService.iml" filepath="$PROJECT_DIR$/ProjectService/ProjectService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectService/WebServices/ProjectService/ProjectWebServices.iml" filepath="$PROJECT_DIR$/ProjectService/WebServices/ProjectService/ProjectWebServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SaleTrainingPrototype.iml" filepath="$PROJECT_DIR$/SaleTrainingPrototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserService/DTOs/UserDTOs.iml" filepath="$PROJECT_DIR$/UserService/DTOs/UserDTOs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserService/ServiceInterfaces/UserInterfaces.iml" filepath="$PROJECT_DIR$/UserService/ServiceInterfaces/UserInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserService/UserService.iml" filepath="$PROJECT_DIR$/UserService/UserService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserService/WebServices/UserWebServices.iml" filepath="$PROJECT_DIR$/UserService/WebServices/UserWebServices.iml" />
+    </modules>
+  </component>
+</project>
+
